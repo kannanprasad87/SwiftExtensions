@@ -49,7 +49,7 @@ Each type of extension is added under a single file.
 
 - [GitHub](https://github.com/kannanprasad87)
 - [StackOverflow](https://stackoverflow.com/users/591843/kannan-prasad)
-- [LinkedIn]:(https://www.linkedin.com/in/kannanprasad/)
+- [LinkedIn](https://www.linkedin.com/in/kannanprasad/)
 
 ## License
 
