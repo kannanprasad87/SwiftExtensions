@@ -1,4 +1,3 @@
-[Swift Extensions](Assets/swift-extensions.jpg)
 ![Swift Extensions](Assets/swift-extensions.jpg)
 [![Version](http://img.shields.io/badge/version-1.0.0-green.svg?style=flat)](https://github.com/kannanprasad87/SwiftExtensions)
 [![Github All Releases](https://img.shields.io/github/downloads/duonghominhhuy/swift-extensions/total.svg)](https://github.com/kannanprasad87/SwiftExtensions)
