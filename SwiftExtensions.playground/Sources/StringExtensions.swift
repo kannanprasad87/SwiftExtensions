@@ -49,6 +49,20 @@ public extension String {
         dateFormatter.timeZone = TimeZone.current
         return dateFormatter.date(from: self)
     }
+
+    ///   Removes white spaces in String
+    ///
+    ///   Usage
+    ///
+    ///   let dateString: String = "2020-10-18 12:34:00"
+    ///   helloWorld.stringByRemovingWhitespaces
+    ///
+    /// - Parameter
+    /// - Returns: String
+
+    var stringByRemovingWhitespaces: String {
+        return components(separatedBy: .whitespaces).joined()
+    }
 }
 
 

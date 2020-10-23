@@ -2,7 +2,7 @@ import Foundation
 
 public extension StringProtocol {
 
-    ///   String Offeset
+    ///   String Offset
     ///
     ///   Usage
     ///   let helloWorld = "Hello World!"
@@ -68,9 +68,5 @@ public extension StringProtocol {
     subscript(range: PartialRangeThrough<Int>) -> SubSequence {
         self[...index(startIndex, offsetBy: range.upperBound)]
     }
-
-//    subscript(range: PartialRangeUpTo<Int>) -> SubSequence {
-//        self[..<index(startIndex, offsetBy: range.upperBound)]
-//    }
 }
 

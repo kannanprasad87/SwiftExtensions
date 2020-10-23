@@ -29,3 +29,9 @@ helloWorld[0..<5]
 helloWorld[6...]
 helloWorld[...5]
 
+helloWorld.stringByRemovingWhitespaces
+
+var webServiceUrl:URL = URL(string: "www.google.com")!
+webServiceUrl.appendQueryString(string: "apiVersion", value: "5").appendQueryString(string: "date", value: "24")
+
+
